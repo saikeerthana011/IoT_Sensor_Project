@@ -2,6 +2,13 @@
 
 This project simulates IoT sensor data (temperature and humidity), performs data analysis, visualization, and anomaly detection using Python.
 
+## Project Structure
+IoT_Sensor_Project/
+│── sensor_data.py
+│── analysis.py
+│── README.md
+│── requirements.txt
+
 ## Features
 - Real-time data simulation
 - Data storage using CSV
